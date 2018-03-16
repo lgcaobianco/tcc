@@ -1,0 +1,33 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Corte transversal de uma laringe, adaptado de \cite {livro_laringe_henrique}\relax }}{8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sinal de voz, visualizado no aplicativo \textit {Audacity}.\relax }}{8}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces O formato de sinal \emph {wav}, retirado de \cite {figura_wave}.\relax }}{10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Ondas de voz\relax }}{16}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Onda de voz gerada com os valores extra\'{i}dos pela biblioteca de \textit {software}}}}{16}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Onda de voz gerada no aplicativo \textit {Audacity}}}}{16}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Gr\'{a}fico de valores dos pacientes com edema, gerado atrav\'{e}s da m\'{e}\discretionary {-}{}{}dia pro\discretionary {-}{}{}ces\discretionary {-}{}{}sa\discretionary {-}{}{}da, agrupados por sinal, onde cada barra de uma certa cor corresponde a um tamanho de janela, de acordo com a legenda.\relax }}{17}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Gr\'{a}fico de valores dos pacientes com n\'{o}dulo, gerado atrav\'{e}s da m\'{e}\discretionary {-}{}{}dia pro\discretionary {-}{}{}ces\discretionary {-}{}{}sa\discretionary {-}{}{}da, agrupados por sinal, onde cada barra de uma certa cor corresponde a um tamanho de janela, de acordo com a legenda.\relax }}{17}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Gr\'{a}fico de valores dos pacientes com n\'{o}dulo, gerado atrav\'{e}s da vari\^{a}ncia processada, agrupados por sinal, onde cada barra de uma certa cor corresponde a um tamanho de janela, de acordo com a legenda.\relax }}{18}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Gr\'{a}fico de valores dos pacientes saud\'{a}veis, gerado atrav\'{e}s da m\'{e}\discretionary {-}{}{}dia pro\discretionary {-}{}{}ces\discretionary {-}{}{}sa\discretionary {-}{}{}da, agrupados por sinal, onde cada barra de uma certa cor corresponde a um tamanho de janela, de acordo com a legenda.\relax }}{18}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Gr\'{a}fico de valores dos pacientes com edema, gerado atrav\'{e}s da va\discretionary {-}{}{}ri\discretionary {-}{}{}\^{a}n\discretionary {-}{}{}ci\discretionary {-}{}{}a processada, agrupados por sinal, onde cada barra de uma certa cor corresponde a um tamanho de janela, de acordo com a legenda.\relax }}{18}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Gr\'{a}fico de valores dos pacientes saud\'{a}veis, gerado atrav\'{e}s da va\discretionary {-}{}{}ri\discretionary {-}{}{}\^{a}n\discretionary {-}{}{}ci\discretionary {-}{}{}a processada, agrupados por sinal, onde cada barra de uma certa cor corresponde a um tamanho de janela, de acordo com a legenda.\relax }}{19}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Gr\'{a}fico de tempo de execu\c {c}\~{a}o, no eixo $Y$, por tamanho da amostra, no eixo $X$. Percebe-se a rela\c {c}\~{a}o praticamente linear.\relax }}{24}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces matriz com erros falsos positivos.\relax }}{28}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces matriz com erros falsos negativos\relax }}{29}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Valores dos sinais saud\'{a}veis, selecionados para o grupo modelo, que geraram o pior resultado\relax }}{35}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Valores dos sinais saud\'{a}veis, selecionados para o grupo teste, que geraram o pior resultado. \relax }}{36}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Valores dos sinais de pacientes com n\'{o}dulo, selecionados para o grupo modelo, que geraram o pior resultado.\relax }}{37}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Valores dos sinais de pacientes com n\'{o}dulo, selecionados para o grupo teste, que geraram o pior resultado. \relax }}{38}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Valores dos sinais de pacientes com edema, selecionados para o grupo modelo, que geraram o pior resultado. \relax }}{39}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Valores dos sinais de pacientes com edema, selecionados para o grupo teste, que geraram o pior resultado. \relax }}{40}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Valores dos sinais de pacientes saud\'{a}veis, selecionados para o grupo modelo, que geraram o melhor resultado. \relax }}{41}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Valores dos sinais de pacientes saud\'{a}veis, selecionados para o grupo teste, que geraram o melhor resultado. \relax }}{42}
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Valores dos sinais de pacientes com no\'{o}dulo, selecionados para o grupo modelo, que geraram o melhor resultado. \relax }}{43}
+\contentsline {figure}{\numberline {A.10}{\ignorespaces Valores dos sinais de pacientes com no\'{o}dulo, selecionados para o grupo teste, que geraram o melhor resultado. \relax }}{44}
+\contentsline {figure}{\numberline {A.11}{\ignorespaces Valores dos sinais de pacientes com edema, selecionados para o grupo modelo, que geraram o melhor resultado. \relax }}{45}
+\contentsline {figure}{\numberline {A.12}{\ignorespaces Valores dos sinais de pacientes com edema, selecionados para o grupo teste, que geraram o melhor resultado. \relax }}{46}

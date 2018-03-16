@@ -1,0 +1,29 @@
+\contentsline {chapter}{Lista de Figuras}{8}
+\contentsline {chapter}{Lista de Tabelas}{10}
+\contentsline {chapter}{\numberline {1}Introdu\c {c}\~{a}o}{2}
+\contentsline {section}{\numberline {1.1}Formula\c {c}\~{a}o do Problema, Objetivos e Justificativa}{2}
+\contentsline {chapter}{\numberline {2}Fundamenta\c {c}\~{a}o Te\'{o}rica}{4}
+\contentsline {section}{\numberline {2.1}Detec\c {c}\~{a}o n\~{a}o-invasiva de patologias na laringe}{4}
+\contentsline {section}{\numberline {2.2}O Aparelho Fonador}{7}
+\contentsline {section}{\numberline {2.3}O Sinal de Voz}{8}
+\contentsline {subsection}{\numberline {2.3.1}Digitaliza\c {c}\~{a}o do Sinal de Voz}{9}
+\contentsline {section}{\numberline {2.4}O Formato WAV}{9}
+\contentsline {section}{\numberline {2.5}Extrator de Caracter\'{i}sticas}{11}
+\contentsline {section}{\numberline {2.6}Classificador}{12}
+\contentsline {section}{\numberline {2.7}Matriz de Confus\~{a}o}{13}
+\contentsline {section}{\numberline {2.8}Valida\c {c}\~{a}o Cruzada}{14}
+\contentsline {chapter}{\numberline {3}O Sistema Proposto}{15}
+\contentsline {chapter}{\numberline {4}Testes e Resultados}{21}
+\contentsline {section}{\numberline {4.1}Base de Dados}{21}
+\contentsline {section}{\numberline {4.2}Procedimentos}{22}
+\contentsline {section}{\numberline {4.3}Complexidade do Algoritmo}{23}
+\contentsline {section}{\numberline {4.4}Primeiros Resultados}{26}
+\contentsline {subsection}{\numberline {4.4.1}Melhor Resultado}{26}
+\contentsline {subsection}{\numberline {4.4.2}Pior Resultado}{27}
+\contentsline {section}{\numberline {4.5}Otimiza\c {c}\~{a}o dos Resultados}{27}
+\contentsline {subsection}{\numberline {4.5.1}Classifica\c {c}\~{a}o dos Erros}{27}
+\contentsline {section}{\numberline {4.6}Resultados Finais}{30}
+\contentsline {subsection}{\numberline {4.6.1}Melhor Resultado}{30}
+\contentsline {chapter}{\numberline {5}Conclus\~{o}es}{32}
+\contentsline {chapter}{Ap\^{e}ndice}{34}
+\contentsline {chapter}{\numberline {A}Valores gerados pelo programa}{34}
